@@ -1,8 +1,14 @@
 """
-Qu'est-ce qu'un service web ? https://fr.wikipedia.org/wiki/Service_web
-Une API REST, qu'est-ce que c'est ? https://www.redhat.com/fr/topics/api/what-is-a-rest-api
-Qu'est ce qu'une FastAPI? https://en.wikipedia.org/wiki/FastAPI
+Exercice 1
+Qu'est-ce qu'un service web ?
+Il permet la communication entre différentes applications ayant des différents langage de programmation
 
+Une API REST, qu'est-ce que c'est ?
+Une API REST est une interface de programmation applicative (API,Application Programming Interface) respectant 
+le style d'architecture REST (Representational State Transfer) 
+
+Qu'est ce qu'une FastAPI?
+Une FastAPI est un framework(ie. environnement de développement) permettant la création d'API.
 """
 from PyQt5.QtWidgets import (
     QApplication,
